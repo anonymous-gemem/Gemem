@@ -10,7 +10,7 @@ This repository is created solely to host and showcase the video demonstrations 
 📺 **Live Demo Page**  
 Please visit the project page for interactive video results and visual examples:
 
-👉 [https://anonymous-gemem.github.io/Gemem/](https://anonymous-gemem.github.io/Gemem/)
+👉 [https://anonymous-gemem.github.io](https://anonymous-gemem.github.io)
 
 📂 **Contents**  
 - `Gemem/`: Contains the Webflow-exported project website and video demonstrations.
