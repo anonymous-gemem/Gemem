@@ -993,6 +993,15 @@ figcaption {
   line-height: 26px;
 }
 
+.div-block {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
 @media screen and (max-width: 991px) {
   .section.cc-cta {
     padding-left: 0;
@@ -1401,7 +1410,7 @@ figcaption {
 }
 
 #w-node-cb3062d1-954c-d37f-c2b1-470f51c5a151-ad7a2ab6 {
-  grid-area: span 2 / span 1 / span 2 / span 1;
+  grid-area: span 3 / span 1 / span 3 / span 1;
 }
 
 #w-node-cb3062d1-954c-d37f-c2b1-470f51c5a152-ad7a2ab6 {
